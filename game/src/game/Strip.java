@@ -1,3 +1,5 @@
+package game;
+
 /**
  * Created by wjb on 2018/7/19.
  */
